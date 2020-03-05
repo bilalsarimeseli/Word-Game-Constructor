@@ -5,7 +5,7 @@ Created a word guess game based on the states of United States. The primary obje
 
 ### Screenshot
 
-![game](
+![game](https://github.com/bilalsarimeseli/Word-Game-Constructor/blob/master/Screen%20Shot%202020-03-05%20at%2011.07.10%20AM.png?raw=true)
                                                   
                                                   
                                                   ___INSTRUCTIONS__
