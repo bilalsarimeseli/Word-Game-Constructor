@@ -1,4 +1,14 @@
-                                                   ___INSTRUCTIONS__
+# WORD-GAME-CONSTRUCTOR       
+                                                  
+## Objective
+Created a word guess game based on the states of United States. The primary objective was practice constructors to have modularized code.   
+
+### Screenshot
+
+![game](
+                                                  
+                                                  
+                                                  ___INSTRUCTIONS__
 
 The game receives user input using the inquirer or prompt npm packages.
 
