@@ -6,6 +6,19 @@ Created a word guess game based on the states of United States. The primary obje
 ### Screenshot
 
 ![game](https://github.com/bilalsarimeseli/Word-Game-Constructor/blob/master/Screen%20Shot%202020-03-05%20at%2011.07.10%20AM.png?raw=true)
+
+### Technologies Used
+
+Back-End
+
+ * Node.js
+ * NPM Packages
+ 
+### Setup
+1. git clone https://github.com/bilalsarimeseli/Word-Game-Constructor
+2. cd Word-Game-Constructor in your terminal
+3. npm install 
+4. node main.js
                                                   
                                                   
                                                   ___INSTRUCTIONS__
